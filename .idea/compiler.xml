@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Deposit.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Initialization.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Division.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Incorrect_declarations.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-LCM.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Max.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Statements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Equality-How_to_compare.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Equality-Referential_equality.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Equality-The_same_object.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Equality-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Equality-True_captain.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Case_insensitive.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Crash_your_app.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Exchange.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-From_A_to_B.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Getting_substrings-Void.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Lucky_number.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Number_Base_Converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
